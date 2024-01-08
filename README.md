@@ -5,7 +5,7 @@
 
 ## ProbStat Project
 
-Showcasing innovation in the field of statistics with ProbStat - A React Native-based application that enables users to effortlessly calculate indices using various formulas such as Laspeyres, Paasche, and more. Explore informative features that allow users to view the formulas directly, fostering a deep understanding of the statistical calculation process
+Menyajikan inovasi dalam dunia statistik dengan ProbStat - Aplikasi berbasis React Native yang memungkinkan pengguna menghitung indeks dengan mudah melalui berbagai rumus termasuk Laspeyres, Paasche, dan lainnya. Jelajahi fitur informatif yang memungkinkan pengguna melihat rumus secara langsung, mendorong pemahaman mendalam tentang proses perhitungan statistik.
 
 ## Getting Started
 
