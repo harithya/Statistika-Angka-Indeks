@@ -7,38 +7,7 @@ import {PrepareData} from '../../types/app-types';
 import {Props} from '../../types/router-type';
 
 const HomePage: React.FC<Props<'Home'>> = ({navigation}) => {
-  const [data, setData] = useState<PrepareData[]>([
-    {
-      price_p0: 8,
-      quantity_q0: 15,
-      price_pt: 5,
-      quantity_qt: 10,
-    },
-    {
-      price_p0: 7,
-      quantity_q0: 13,
-      price_pt: 8,
-      quantity_qt: 13,
-    },
-    {
-      price_p0: 6,
-      quantity_q0: 16,
-      price_pt: 6,
-      quantity_qt: 9,
-    },
-    {
-      price_p0: 9,
-      quantity_q0: 18,
-      price_pt: 7,
-      quantity_qt: 8,
-    },
-    {
-      price_p0: 5,
-      quantity_q0: 17,
-      price_pt: 6,
-      quantity_qt: 11,
-    },
-  ]);
+  const [data, setData] = useState<PrepareData[]>([]);
   const [form, setForm] = useState({
     price_p0: '',
     price_pt: '',
